@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15eb0635.css",
+    "main.js": "/static/js/main.b7063bde.js",
+    "static/js/453.32feb342.chunk.js": "/static/js/453.32feb342.chunk.js",
+    "static/media/violet_innocent_smile.png": "/static/media/violet_innocent_smile.8bcb858f3c047ea4f212.png",
+    "index.html": "/index.html",
+    "main.15eb0635.css.map": "/static/css/main.15eb0635.css.map",
+    "main.b7063bde.js.map": "/static/js/main.b7063bde.js.map",
+    "453.32feb342.chunk.js.map": "/static/js/453.32feb342.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15eb0635.css",
+    "static/js/main.b7063bde.js"
+  ]
+}
